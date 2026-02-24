@@ -1,6 +1,6 @@
-# Marvel-Studio-Dashboard
+# Marvel-Studio-Report-Project
 Interactive Power BI dashboard analyzing Marvel Studio movie performance and financial insights.
-# 🎬 Marvel Studio Performance Dashboard
+# 🎬 Marvel Studio Performance Report
 
 ![OIP (5)](https://github.com/user-attachments/assets/b1e991b9-beb0-4f14-932c-bbdd6fd159b0)
 
