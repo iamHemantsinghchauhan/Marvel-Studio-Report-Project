@@ -11,22 +11,11 @@
 
 ---
 
-## 🎬✨ It’s Show Time 😎  
-
-## 📊 Dashboard Preview  
-
-![Overview](Snapshot/Page%201%20Screenshot.png)  
-![Box Office](Snapshot/Page%202%20Screenshot.png)  
-![Artists](Snapshot/Page%203%20Screenshot.png)  
-![Home](Snapshot/Page%204%20Screenshot.png)  
-
----
-
 ## 🌟 Overview  
 
 This project presents a **high-impact Power BI dashboard** analyzing Marvel movie performance across revenue, popularity, ratings, and audience trends.
 
-It transforms raw data into **actionable insights**, enabling deeper understanding of box office success, top-performing actors, and content trends through interactive visual storytelling.
+It transforms raw data into **actionable insights**, enabling deeper understanding of box office success, top-performing actors, and long-term franchise trends through interactive visual storytelling.
 
 ---
 
@@ -53,44 +42,60 @@ To analyze Marvel movie data and uncover insights into:
 
 ---
 
-## 📊 Page-wise Insights  
+## 🎬✨ It’s Show Time 😎  
 
 ---
 
-### 🏠 **Overview Dashboard**  
+## 📊 Dashboard 1: Overview  
 
-- 💰 Total revenue exceeds **$2T**, showing franchise dominance  
-- ⭐ Consistent IMDb rating (~7.2) indicates strong audience reception  
-- 🎯 High hit percentage (~57%) reflects content success  
-- 📊 Revenue heavily driven by blockbuster movies  
-- 🎬 Action genre dominates overall production  
+![Overview](Assets/Page%201%20Screenshot.png)
+
+### 🔍 Insights  
+
+- 💰 Total revenue exceeds **$2T**, highlighting franchise dominance  
+- ⭐ Average IMDb rating (~7.2) shows consistent audience approval  
+- 🎯 High hit percentage (~57%) reflects strong content success  
+- 📊 Revenue is driven by a few blockbuster movies  
+- 🎬 Action genre dominates overall movie production  
 
 ---
 
-### 💸 **Box Office Analysis**  
+## 📊 Dashboard 2: Box Office Analysis  
+
+![Box Office](Assets/Page%202%20Screenshot.png)
+
+### 🔍 Insights  
 
 - 🏆 *Avengers: Endgame* and *Infinity War* lead revenue charts  
-- 🌍 USA and global markets drive major revenue share  
-- 📈 Revenue distribution shows strong global appeal  
-- 🎯 Top movies significantly outperform others  
+- 🌍 USA and major markets drive the highest revenue share  
+- 📈 Strong global audience reach across countries  
+- 🎯 Top 5 movies significantly outperform others  
 
 ---
 
-### 🎭 **Artists & Creators Analysis**  
+## 📊 Dashboard 3: Artists & Creators  
+
+![Artists](Assets/Page%203%20Screenshot.png)
+
+### 🔍 Insights  
 
 - 🎬 Russo Brothers dominate high-revenue direction  
 - 🌟 Robert Downey Jr. and Tom Holland are key contributors  
-- 📊 Star power plays a major role in movie success  
-- 🎯 Strong collaborations lead to higher-performing movies  
+- 📊 Star power strongly influences movie performance  
+- 🎯 Actor-director collaborations drive success  
 
 ---
 
-### 🎬 **Trends & Popularity Analysis**  
+## 📊 Dashboard 4: Trends & Popularity  
 
-- 📈 Popularity increases over time with franchise growth  
-- 🎯 Later phases generate higher engagement  
+![Trends](Assets/Page%204%20Screenshot.png)
+
+### 🔍 Insights  
+
+- 📈 Popularity increases steadily over time  
+- 🎯 Later movie phases generate higher engagement  
 - 🌍 Audience interest spikes after major releases  
-- 🔮 Indicates strong long-term franchise strategy  
+- 🔮 Indicates strong long-term franchise growth strategy  
 
 ---
 
