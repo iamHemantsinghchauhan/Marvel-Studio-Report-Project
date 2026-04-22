@@ -108,4 +108,28 @@ To analyze Marvel movie data and uncover insights into:
 
 ---
 
-## 📂 Project Structure  
+
+---
+
+## 💼 Business Impact  
+
+- 🎯 Identifies key revenue drivers in the entertainment industry  
+- 📊 Highlights top actors, directors, and high-performing movies  
+- 🌍 Provides insights into global audience behavior  
+- 📈 Supports data-driven content and production strategies  
+
+---
+
+## 🚀 Why This Project Stands Out  
+
+✔ Real-world entertainment analytics use case  
+✔ Multi-page interactive dashboard  
+✔ Visual storytelling + business insights  
+✔ Combines revenue, popularity, and performance analysis  
+✔ Structured like a professional analytics case study  
+
+---
+
+## 👤 Author  
+
+**Hemant**  
